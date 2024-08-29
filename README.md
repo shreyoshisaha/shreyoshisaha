@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shreyoshiisaha" target="blank"><img src="https://img.shields.io/twitter/follow/shreyoshiisaha?logo=twitter&style=for-the-badge" alt="shreyoshiisaha" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **kotlin**
 
 - 💬 Ask me about **javascript, dsa**
 
